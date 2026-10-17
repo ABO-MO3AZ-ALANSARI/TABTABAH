@@ -74,7 +74,7 @@ section{
 /* RESET END */
 
 .home{
-        background: url("/assets/images/SH_A\ \(2\).jpg");
+        background: url("../assets/images/SH_A\ \(2\).jpg");
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -206,7 +206,7 @@ section{
     /* SH_A SECTION */
     
     .SH-A{
-        background: url("/assets/images/SH_A\ \(2\).jpg");
+        background: url("../assets/images/SH_A\ \(2\).jpg");
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
